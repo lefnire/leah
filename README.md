@@ -4,7 +4,7 @@ A single-page therapist private practice site with tabbed navigation built with 
 
 ## Getting Started
 
-Open `index.html` in any modern browser. Styling loads from the Tailwind Play CDN (`https://cdn.tailwindcss.com`), so no build steps are required.
+Open `index.html` in any modern browser. All styling is provided through the Tailwind CDN, so no build steps are required.
 
 ## Page Sections
 
